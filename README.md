@@ -3,6 +3,16 @@ Projeto de Locação de Veículos com implementação de interface gráfica e l�
 
 Neste projeto foram utilizados os arquivos: locacao_controller.py, locacao_dao.py, janela_principal.py, locacao_usuario_view.py, locacao_view.py, reservado_view.py e locacaopostgres.sql. Além de outros arquivos semi-editados, como: veiculo_controller.py, veiculo_dao.py, locacao.py.
 
+Entre as principais funcionalidades estão:
+
+- Cadastro de veículos com informações como placa, categoria, tipo, taxa diária e estado atual.
+- Listagem, atualização e remoção de veículos cadastrados.
+- Criação de locações vinculando veículos a períodos de uso.
+- Controle do status das locações (reservado, locado e devolvido/cancelado).
+- Cálculo automático do valor da locação com base no período de uso.
+- Interface gráfica para interação do usuário com o sistema.
+- Integração com banco de dados PostgreSQL para persistência das informações.
+
 Durante o desenvolvimento desta atividade, a principal dificuldade encontrada foi a integração entre as camadas do padrão MVC, especialmente na comunicação entre as Views, Controllers e PostgreSQL. Também houve dificuldades relacionadas à manipulação de janelas "TopLevel" atualização das tabelas ("TreeView") após operações de CRUD.
 
 Para resolver os problemas, foram realizadas revisões das aulas, testes no sistema, ajustes na estrutura das telas e consultas SQL, além de uso de IA.

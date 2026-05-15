@@ -32,5 +32,6 @@ Tela de Veículos Cadastrados (dois exemplos):
 <img width="800" height="431" alt="image" src="https://github.com/user-attachments/assets/7f2a4c17-36da-4622-bdc2-1de6a52d4748" />
 
 Tela de Locação:
+
 <img width="800" height="430" alt="image" src="https://github.com/user-attachments/assets/a12fcc60-7755-4d84-a815-b2a99f4c2469" />
 

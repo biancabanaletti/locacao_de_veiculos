@@ -37,7 +37,7 @@ Tela principal do Sistema de Locadora de Veículos:
 
 Tela de Veículos Cadastrados (dois exemplos):
 
-<img width="800" height="431" alt="image" src="https://github.com/user-attachments/assets/7f2a4c17-36da-4622-bdc2-1de6a52d4748" />
+<img width="798" height="430" alt="image" src="https://github.com/user-attachments/assets/b1a13dad-eb55-49e9-be2e-adb383359530" />
 
 Tela de Locação:
 

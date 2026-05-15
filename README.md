@@ -15,9 +15,13 @@ Ferramenta utilizada: ChatGPT (OpenAI)
 A IA foi utilizada como apoio para correção de erros, organização da estrutura MVC, ajustes de integração entre telas Tkinter, consultas SQL e explicações sobre problemas encontrados durante o desenvolvimento.
 
 O principal aprendizado obtido foi compreender melhor:
+
 --- O funcionamento da arquitetura MVC;
+
 --- A persistência de dados com PostgreSQL;
+
 --- A utilização de DAO para separação das responsabilidades;
+
 --- O gerenciamento de interfaces gráficas com Tkinter.
 
 Validação:
@@ -26,9 +30,11 @@ Declaro que todo o código gerado foi revisado, testado e compreendido antes de 
 --- TESTES ---
 
 Tela principal do Sistema de Locadora de Veículos:
+
 <img width="899" height="628" alt="image" src="https://github.com/user-attachments/assets/0eccf8db-20f3-4f1b-a657-ee54974167f8" />
 
 Tela de Veículos Cadastrados (dois exemplos):
+
 <img width="800" height="431" alt="image" src="https://github.com/user-attachments/assets/7f2a4c17-36da-4622-bdc2-1de6a52d4748" />
 
 Tela de Locação:

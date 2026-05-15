@@ -7,12 +7,12 @@ Durante o desenvolvimento desta atividade, a principal dificuldade encontrada fo
 
 Para resolver os problemas, foram realizadas revisões das aulas, testes no sistema, ajustes na estrutura das telas e consultas SQL, além de uso de IA.
 
-* Declaração de uso de IA.
+Declaração de uso de IA.
 
 (X) Utilizei IA como ferramenta de apoio.
 Ferramenta utilizada: ChatGPT (OpenAI)
 
-* Finalidade:
+Finalidade:
 A IA foi utilizada como apoio para correção de erros, organização da estrutura MVC, ajustes de integração entre telas Tkinter, consultas SQL e explicações sobre problemas encontrados durante o desenvolvimento.
 
 O principal aprendizado obtido foi compreender melhor:

@@ -6,12 +6,13 @@ Neste projeto foram utilizados os arquivos: locacao_controller.py, locacao_dao.p
 Durante o desenvolvimento desta atividade, a principal dificuldade encontrada foi a integração entre as camadas do padrão MVC, especialmente na comunicação entre as Views, Controllers e PostgreSQL. Também houve dificuldades relacionadas à manipulação de janelas "TopLevel" atualização das tabelas ("TreeView") após operações de CRUD.
 
 Para resolver os problemas, foram realizadas revisões das aulas, testes no sistema, ajustes na estrutura das telas e consultas SQL, além de uso de IA.
-- Declaração de uso de IA.
+
+* Declaração de uso de IA.
 
 (X) Utilizei IA como ferramenta de apoio.
 Ferramenta utilizada: ChatGPT (OpenAI)
 
-- Finalidade:
+* Finalidade:
 A IA foi utilizada como apoio para correção de erros, organização da estrutura MVC, ajustes de integração entre telas Tkinter, consultas SQL e explicações sobre problemas encontrados durante o desenvolvimento.
 
 O principal aprendizado obtido foi compreender melhor:
@@ -27,7 +28,8 @@ O principal aprendizado obtido foi compreender melhor:
 Validação:
 Declaro que todo o código gerado foi revisado, testado e compreendido antes de ser utilizado no projeto.
 
---- TESTES ---
+
+*** TESTES ***
 
 Tela principal do Sistema de Locadora de Veículos:
 

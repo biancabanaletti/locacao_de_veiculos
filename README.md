@@ -15,6 +15,8 @@ Entre as principais funcionalidades estão:
 
 Durante o desenvolvimento desta atividade, a principal dificuldade encontrada foi a integração entre as camadas do padrão MVC, especialmente na comunicação entre as Views, Controllers e PostgreSQL. Também houve dificuldades relacionadas à manipulação de janelas "TopLevel" atualização das tabelas ("TreeView") após operações de CRUD.
 
+Para resolver os problemas, foram realizadas revisões das aulas, testes no sistema, ajustes na estrutura das telas e consultas SQL, além de uso de IA.
+
 O principal aprendizado obtido foi compreender melhor:
 
 - O funcionamento da arquitetura MVC;
@@ -24,8 +26,6 @@ O principal aprendizado obtido foi compreender melhor:
 - A utilização de DAO para separação das responsabilidades;
 
 - O gerenciamento de interfaces gráficas com Tkinter.
-
-Para resolver os problemas, foram realizadas revisões das aulas, testes no sistema, ajustes na estrutura das telas e consultas SQL, além de uso de IA.
 
 - Declaração de uso de IA.
 

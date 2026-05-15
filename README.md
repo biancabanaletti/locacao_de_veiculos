@@ -7,29 +7,29 @@ Durante o desenvolvimento desta atividade, a principal dificuldade encontrada fo
 
 Para resolver os problemas, foram realizadas revisões das aulas, testes no sistema, ajustes na estrutura das telas e consultas SQL, além de uso de IA.
 
-Declaração de uso de IA.
+--- Declaração de uso de IA.
 
 (X) Utilizei IA como ferramenta de apoio.
 Ferramenta utilizada: ChatGPT (OpenAI)
 
-Finalidade:
+--- Finalidade:
 A IA foi utilizada como apoio para correção de erros, organização da estrutura MVC, ajustes de integração entre telas Tkinter, consultas SQL e explicações sobre problemas encontrados durante o desenvolvimento.
 
 O principal aprendizado obtido foi compreender melhor:
 
---- O funcionamento da arquitetura MVC;
+- O funcionamento da arquitetura MVC;
 
---- A persistência de dados com PostgreSQL;
+- A persistência de dados com PostgreSQL;
 
---- A utilização de DAO para separação das responsabilidades;
+- A utilização de DAO para separação das responsabilidades;
 
---- O gerenciamento de interfaces gráficas com Tkinter.
+- O gerenciamento de interfaces gráficas com Tkinter.
 
 Validação:
 Declaro que todo o código gerado foi revisado, testado e compreendido antes de ser utilizado no projeto.
 
 
-*** TESTES ***
+*** IMPLEMENTAÇÃO ***
 
 Tela principal do Sistema de Locadora de Veículos:
 
